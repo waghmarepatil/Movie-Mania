@@ -1,4 +1,3 @@
-![MovieMania](https://user-images.githubusercontent.com/32593150/154197538-a9ad9f79-1bb5-44b1-8f03-1f9b287d46ed.jpg)
 
 # MovieMania
 ***A minimalistic Android application Built with Clean architecture and Jetpack component (Jetpack Compose, MVVM , Paging
