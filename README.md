@@ -4,7 +4,7 @@
 3.0, HILT, ROOM DB, Retrofit, and many more …). It was made to describe the latest android development trend. This app will be updated further to adapt to latest development trend***
 
 #### <br/><br/>Get the latest MovieMania app apk from below 👇
-[![MovieMania](https://img.shields.io/badge/MovieMania-APK-blue)]([https://github.com/Farhandroid/AndroidCleanArchitecture/releases/download/Latest/MovieMania-debug.apk](https://github.com/waghmarepatil/Movie-Mania/blob/main/Movie%20Mania.apk))
+[![MovieMania](https://img.shields.io/badge/MovieMania-APK-blue)](https://github.com/waghmarepatil/Movie-Mania/blob/main/Movie%20Mania.apk)
 
 ## <br/><br/>Screenshort 📸
 ![Screenshort](https://user-images.githubusercontent.com/32593150/154197554-9325bc59-1f29-44b3-a85b-d7561ea158df.jpg)
